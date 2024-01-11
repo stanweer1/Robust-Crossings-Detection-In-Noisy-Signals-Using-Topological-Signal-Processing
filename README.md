@@ -1,3 +1,3 @@
 # Robust-Crossings-Detection-In-Noisy-Signals-Using-Topological-Signal-Processing
 
-Repository for codes pertinent to the paper in the title
+Repository for codes to generate figures in the titled paper
